@@ -1,0 +1,5 @@
+{
+    version: 1,
+    file: "foo.json",
+    variant: "C"
+}
